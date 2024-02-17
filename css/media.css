@@ -1,0 +1,180 @@
+@media(max-width:1440px){
+    .phone{
+        width: 30%;
+        right: 60px;
+    }
+}
+
+@media(max-width:1200px){
+    .toggle-btn{
+        color: white;
+    }
+    
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .nav-item{
+        padding: 0 15px;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    
+    }
+    
+    .navbar-nav{
+        margin-top: 20px;
+    }
+}
+@media(max-width:767px){
+    .phone{
+        display: none;
+    }
+    .mobile_phone{
+        display: inherit;
+    }
+    .mobile_phone img{
+        width: 50%;
+    }
+    .height{
+        text-align: center;
+        padding: 30px 0;
+    }
+    .align{
+        align-items: center;
+    }
+    .contact p{
+        font-size: 14px;
+    }
+    
+    
+    .features p{
+        margin-bottom: 30px;
+    
+    }
+   
+    
+    
+    }
+    .testimoial p{
+        text-align: center;
+    }
+    .client_info{
+        justify-content: center;
+    }
+    
+    .ad_section{
+        text-align: center;
+    }
+    .contact form{
+        width: 50%;
+    }
+    .contact{
+        padding-bottom: 400px;
+    }
+    
+    footer .icon{
+        justify-content: center;
+    }
+    
+    .icon{
+        margin: 0;
+    }
+    
+    
+@media(max-width:575px){
+.phone{
+    display: none;
+}
+.mobile_phone{
+    display: inherit;
+}
+.mobile_phone img{
+    width: 50%;
+}
+.height{
+    text-align: center;
+    padding: 30px 0;
+}
+.toggle-btn{
+    color: white;
+}
+
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+.nav-item{
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+
+}
+
+.navbar-nav{
+    margin-top: 20px;
+}
+.features p{
+    margin-bottom: 30px;
+
+}
+.iphone{
+    width: 60%;
+    margin: auto;
+}
+
+}
+.testimoial p{
+    text-align: center;
+}
+.client_info{
+    justify-content: center;
+}
+
+.ad_section{
+    text-align: center;
+}
+.contact form{
+    width: 50%;
+}
+.contact{
+    padding-bottom: 400px;
+}
+
+footer .icon{
+    justify-content: center;
+}
+
+.icon{
+    margin: 0;
+}
+
+
+@media(max-width:425px){
+header h1{
+    font-size: 35px;
+}
+}
+
+@media(max-width:375px){
+    
+    header h1{
+        font-size: 30px;
+    }
+    
+header p{
+    font-size: 15px;
+}
+.height{
+    margin-top: 30px;
+}
+.contact form{
+    padding: 50px 20px;
+}
+}
+    
+
+@media(max-width:320px){
+.btn_download{
+    padding: 8px 15px;
+}
+}
